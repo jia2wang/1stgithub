@@ -4,4 +4,8 @@ app running
 
 app end
 
+<<<<<<< .merge_file_a11612
 3rd end
+=======
+2 nd add
+>>>>>>> .merge_file_a01980
